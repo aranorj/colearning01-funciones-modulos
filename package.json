@@ -1,0 +1,22 @@
+{
+  "name": "colearning01-funciones-modulos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aranorj/colearning01-funciones-modulos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aranorj/colearning01-funciones-modulos/issues"
+  },
+  "homepage": "https://github.com/aranorj/colearning01-funciones-modulos#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
